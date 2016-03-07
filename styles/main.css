@@ -6,12 +6,34 @@
   border: 1px solid darkgrey;
 }
 
-.shirtbox {
+.shirtboxblue {
   width: 220px;
   height: 250px;
-  background-color: darkgrey;
+  background-color: white;
   border: 1px solid #3366ff;
   margin: 20px 0 0 15px;
+  background-image: url('../images/shirts/1_front.png');
+  background-size: contain;
+}
+
+.shirtboxpink {
+  width: 220px;
+  height: 250px;
+  background-color: white;
+  border: 1px solid #3366ff;
+  margin: 20px 0 0 15px;
+  background-image: url('../images/shirts/2_front.png');
+  background-size: contain; ;
+}
+
+.shirtboxorange {
+  width: 220px;
+  height: 250px;
+  background-color: white;
+  border: 1px solid #3366ff;
+  margin: 20px 0 0 15px;
+  background-image: url('../images/shirts/3_front.png');
+  background-size: contain;
 }
 
 .topright {
@@ -22,6 +44,8 @@
   border: 1px solid #3366ff;
   border-top: none;
   border-right: none;
+  background-image: url('../images/icons/rotate.png');
+  background-size: cover;
 }
 
 .bottomiconholder {
@@ -91,3 +115,5 @@ p {
   padding: 5px;
   color: #1E90FF;
 }
+
+/*../images/shirts/1_front.png*/
