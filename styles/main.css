@@ -1,16 +1,16 @@
 .mainbox {
   width: 750px;
   height: 350px;
-  background-color: black;
+  background-color: #3366ff;
   margin: 0 auto;
-  border: 1px solid black;
+  border: 1px solid darkgrey;
 }
 
 .shirtbox {
   width: 220px;
   height: 250px;
   background-color: darkgrey;
-  border: 1px solid black;
+  border: 1px solid #3366ff;
   margin: 20px 0 0 15px;
 }
 
@@ -19,7 +19,7 @@
   height: 25px;
   background-color: white;
   float: right;
-  border: 1px solid black;
+  border: 1px solid #3366ff;
   border-top: none;
   border-right: none;
 }
@@ -37,7 +37,7 @@
   width: 44px;
   height: 39px;
   background-color: white;
-  border: 1px solid black;
+  border: 1px solid #3366ff;
   float: left;
   margin: 0px 0 2px -1px;
   border-right: none;
@@ -81,7 +81,7 @@
 
 h4 {
   margin: 0 0 0 0;
-  color: blue;
+  color: #3366ff;
 }
 
 p {
@@ -89,5 +89,5 @@ p {
   height: 0px;
   margin: 5px 0 0 0;
   padding: 5px;
-  color: blue;
+  color: #1E90FF;
 }
