@@ -1,0 +1,91 @@
+.mainbox {
+  width: 750px;
+  height: 350px;
+  background-color: black;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.shirtbox {
+  width: 220px;
+  height: 250px;
+  background-color: darkgrey;
+  border: 1px solid black;
+  margin: 20px 0 0 15px;
+}
+
+.topright {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  float: right;
+  border: 1px solid black;
+}
+
+.bottomiconholder {
+  width: 220px;
+  height: 40px;
+  background-color: grey;
+  margin: 210px 0 0 0;
+  padding: 0;
+
+}
+
+.icons {
+  width: 44px;
+  height: 39px;
+  background-color: white;
+  border: 1px solid black;
+  float: left;
+  margin: 0px 0 2px -1px;
+  border-right: none;
+  padding: 0;
+
+}
+
+.mainbox2 {
+  margin: 0 auto;
+  width: 248px;
+  height: 348px;
+  background-color: white;
+  float: left;
+  margin: 0 0 0 0px;
+  border: 1px solid white;
+
+}
+
+.footer {
+  width: 246px;
+  height: 70px;
+  background-color: white;
+  margin: 0 0 -10px 0;
+  border: 1px solid white;
+  border-top: none;
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+.footermoneyleft {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  float: right;
+  margin: 0   0 0 0;
+  padding: 0 0 0 0;
+}
+
+h4 {
+  margin: 0 0 0 0;
+  color: blue;
+}
+
+p {
+  width: 100px;
+  height: 0px;
+  margin: 5px 0 0 0;
+  padding: 5px;
+  color: blue;
+}
