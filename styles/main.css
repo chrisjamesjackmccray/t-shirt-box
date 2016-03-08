@@ -48,6 +48,13 @@
   background-size: cover;
 }
 
+
+.topright:hover {
+  background-image: url('../images/icons/rotate_hover.png');
+  background-size: cover;
+}
+
+
 .bottomiconholder {
   width: 220px;
   height: 40px;
@@ -56,6 +63,8 @@
   padding: 0;
 
 }
+
+
 
 .farleft {
   width: 44px;
@@ -70,6 +79,66 @@
   background-size: contain;
 
 }
+
+.shirtboxblue .farleft:hover  {
+  background-image: url('../images/icons/button_1_hover.png');
+  background-size: contain;
+}
+
+.shirtboxpink .farleft:hover  {
+  background-image: url('../images/icons/button_1_hover.png');
+  background-size: contain;
+}
+
+.shirtboxorange .farleft:hover  {
+  background-image: url('../images/icons/button_1_hover.png');
+  background-size: contain;
+}
+
+
+
+
+
+
+.shirtboxblue .lefttwo:hover  {
+  background-image: url('../images/icons/button_2_hover.png');
+  background-size: contain;
+}
+
+.shirtboxpink .lefttwo:hover  {
+  background-image: url('../images/icons/button_2_hover.png');
+  background-size: contain;
+}
+
+.shirtboxorange .lefttwo:hover  {
+  background-image: url('../images/icons/button_2_hover.png');
+  background-size: contain;
+}
+
+
+
+
+
+
+.shirtboxblue .farright:hover  {
+  background-image: url('../images/icons/button_3_hover.png');
+  background-size: contain;
+}
+
+.shirtboxpink .farright:hover  {
+  background-image: url('../images/icons/button_3_hover.png');
+  background-size: contain;
+}
+
+.shirtboxorange .farright:hover  {
+  background-image: url('../images/icons/button_3_hover.png');
+  background-size: contain;
+}
+
+
+
+
+
 
 .lefttwo {
   width: 44px;
@@ -97,6 +166,14 @@
 
 }
 
+.middle:hover {
+  background-color: blue;
+}
+
+.middle p:hover {
+  color: white;
+}
+
 .middle p {
   margin: 7px 0 0 7px;
 }
@@ -114,6 +191,11 @@
 
 }
 
+.righttwoblue:hover {
+  background-color: #3366ff;
+}
+
+
 .righttwopink {
   width: 44px;
   height: 39px;
@@ -124,7 +206,10 @@
   border-right: none;
   padding: 0;
   position: relative;
+}
 
+.righttwopink:hover {
+  background-color: deeppink;
 }
 
 .righttwoorange {
@@ -138,6 +223,10 @@
   padding: 0;
   position: relative;
 
+}
+
+.righttwoorange:hover {
+  background-color: orange;
 }
 
 .farright {
@@ -215,8 +304,9 @@ p {
   width: 20px;
   background-color: #81BCE6;
   margin: 10px;
-
+  border: 1px solid white;
 }
+
 
 .icon-box--hidden-box {
   width: 18px;
@@ -242,6 +332,7 @@ p {
   width: 20px;
   background-color: #D482AA;
   margin: 10px;
+  border: 1px solid white;
 
 }
 
@@ -257,22 +348,24 @@ p {
   opacity: 0;
 }
 
-.righttwopinkly:hover .iconsly-boxly--hiddeenly-boxly {
+.righttwoorange:hover .icone-box--hiddin-box {
   visibility: visible;
   opacity: 1;
   transition: visibility 3s, opacity 3s;
 }
 
 
-.iconsly-boxly--coloreedly-boxly {
+.icone-box--colorid-box {
   height: 20px;
   width: 20px;
-  background-color: #D482AA;
+  background-color: #D8AD7A;
   margin: 10px;
-
+  border: 1px solid white;
 }
 
-.iconsly-boxly--hiddeenly-boxly {
+
+
+.icone-box--hiddin-box {
   width: 18px;
   height: 100px;
   border: 1px solid deeppink;
@@ -283,6 +376,10 @@ p {
   visibility: hidden;
   opacity: 0;
 }
+
+
+
+
 
 
 
