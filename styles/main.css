@@ -318,6 +318,8 @@ p {
   bottom: 100%;
   visibility: hidden;
   opacity: 0;
+  background-image: url('../images/icons/shirt.png');
+  background-size: contain;
 }
 
 .righttwopink:hover .icons-box--hiddeen-box {
@@ -346,6 +348,8 @@ p {
   bottom: 100%;
   visibility: hidden;
   opacity: 0;
+  background-image: url('../images/icons/shirt.png');
+  background-size: contain;
 }
 
 .righttwoorange:hover .icone-box--hiddin-box {
@@ -375,6 +379,8 @@ p {
   bottom: 100%;
   visibility: hidden;
   opacity: 0;
+  background-image: url('../images/icons/shirt.png');
+  background-size: contain;
 }
 
 
