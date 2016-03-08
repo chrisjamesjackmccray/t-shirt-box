@@ -3,7 +3,7 @@
   height: 350px;
   background-color: #3366ff;
   margin: 0 auto;
-  border: 1px solid darkgrey;
+  border: 1px solid lightgrey;
 }
 
 .shirtboxblue {
@@ -23,7 +23,7 @@
   border: 1px solid #3366ff;
   margin: 20px 0 0 15px;
   background-image: url('../images/shirts/2_front.png');
-  background-size: contain; ;
+  background-size: contain;
 }
 
 .shirtboxorange {
@@ -57,7 +57,7 @@
 
 }
 
-.icons {
+.farleft {
   width: 44px;
   height: 39px;
   background-color: white;
@@ -66,6 +66,66 @@
   margin: 0px 0 2px -1px;
   border-right: none;
   padding: 0;
+  background-image: url('../images/icons/button_2.png');
+  background-size: contain;
+
+}
+
+.lefttwo {
+  width: 44px;
+  height: 39px;
+  background-color: white;
+  border: 1px solid #3366ff;
+  float: left;
+  margin: 0px 0 2px -1px;
+  border-right: none;
+  padding: 0;
+  background-image: url('../images/icons/button_2.png');
+  background-size: contain;
+
+}
+
+.middle {
+  width: 44px;
+  height: 39px;
+  background-color: white;
+  border: 1px solid #3366ff;
+  float: left;
+  margin: 0px 0 2px -1px;
+  border-right: none;
+  padding: 0;
+
+}
+
+.middle p {
+  margin: 7px 0 0 7px;
+}
+
+.besideleft {
+  width: 44px;
+  height: 39px;
+  background-color: white;
+  border: 1px solid #3366ff;
+  float: left;
+  margin: 0px 0 2px -1px;
+  border-right: none;
+  padding: 0;
+
+
+}
+
+.farright {
+  width: 44px;
+  height: 39px;
+  background-color: white;
+  border: 1px solid #3366ff;
+  float: left;
+  margin: 0px 0 2px -1px;
+  border-right: none;
+  padding: 0;
+  background-image: url('../images/icons/button_3.png');
+  background-size: contain;
+
 
 }
 
